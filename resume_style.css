@@ -1,0 +1,62 @@
+div#name {
+			text-align: center;
+			font-weight: bold;
+			font-size: xx-large;
+		}
+div#contact_info {
+    display: inline;
+    float: right;
+}
+div#address {
+    display: inline;
+    float: left;
+}
+div#mobile_number {
+    display: inline;
+    float: right;
+}
+div#obj {
+    margin-top: 80px;
+    text-align: left;
+}
+div#objtext {
+    margin-left: 10px;
+}
+.heading {
+	padding-top: 10px;
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+}
+.project_heading {
+    display: inline-block;
+    float: left;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 20px;
+}
+.project_date {
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+}
+.project {
+    margin-bottom: 25px;
+}
+.skills_used {
+    padding: 10px 0px 0px 50px;
+}
+.project_description {
+    padding: 25px 30px 0px 30px;
+}
+.institution_name {
+    display: inline;
+    font-weight: bold;
+}
+.year_of_passing {
+    display: inline;
+    float: right;
+}
+.education_degree {
+    padding: 10px 10px 10px 10px;
+}
